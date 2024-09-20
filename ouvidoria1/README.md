@@ -10,7 +10,6 @@ Os projetos disponíveis neste repositório são exemplos práticos que cobrem t
 ### Lista de Projetos
 
 - **ouvidoria1**: Sistema simples de ouvidoria que permite criar, editar e deletar reclamações.
-- *[Outros projetos podem ser listados aqui]...*
 
 ---
 
