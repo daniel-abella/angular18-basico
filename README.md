@@ -22,7 +22,7 @@ Siga os passos abaixo para rodar o projeto **ouvidoria1** no seu ambiente local:
 Clone este repositório usando o comando `git`:
 
 ```bash
-git clone https://github.com/seu-usuario/angular18-basico.git
+git clone https://github.com/daniel-abella/angular18-basico.git
 ```
 
 ### 2. Acessar a pasta do projeto `ouvidoria1`
